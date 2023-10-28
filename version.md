@@ -6,14 +6,14 @@
 
 * Added linklist() function to return a list of all images by searches
 
-```linklist()
+```python
 list = linklist("cats")
 print(list)
 ```
 output will be a list of cats image links.
 * Added single() function to return a single image link by searches
 
-```single()
+```python
 image_link = single("cats")
 print(image_link)
 ```
