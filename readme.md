@@ -1,4 +1,4 @@
-This is a simple Python Flask API that searches for images on Unsplash and returns a random image link.
+**This is a simple Python Flask API that searches for images on Unsplash and returns a random image link 🖼️**
 
 To use the API, simply send a GET request to `/api/search` with the following query parameter:
 
@@ -15,7 +15,7 @@ GET /api/search?q=cats
 The API will return a JSON response containing the following key:
 
 ```
-image_link: The URL of a random image matching the search term.
+image_link: The URL of a random image matching the search term. 🖼️
 ```
 
 Here is an example of a JSON response:
@@ -44,10 +44,8 @@ python main.py
 
 The API will be running on port 5000 by default. You can access the API at 127.0.0.1:5000/api/search.
 
-or you can use the getimage.py functions to get img links by args.
+**or you can use the getimage.py functions to get img links by args. 🪄**
 
-This project is open source and under the MIT license.
+This project is open source and under the MIT license. 开源 👐
 
-Fork and contribute!
-
-This version is even shorter and more concise, but it still conveys the essential information: that the project is open source and under the MIT license, and that people are encouraged to fork and contribute.
+Fork and contribute! 🤝
