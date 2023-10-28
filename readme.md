@@ -1,4 +1,4 @@
-![imapi](images/imapi.png)
+![imapi](images/Picsart_23-10-28_15-53-13-129.jpg)
 
 **This is a simple Python Flask API that searches for images on Unsplash and returns a random image link 🖼️**
 
