@@ -1,6 +1,6 @@
 ![imapi](images/Picsart_23-10-28_15-53-13-129.jpg)
 
-**This is a simple Python Flask API that searches for images on Unsplash and returns a random image link 🖼️**
+**IMAPI an api that generate image links depends on your research**
 
 To use the API, simply send a GET request to `/api/search` with the following query parameter:
 
@@ -46,7 +46,7 @@ python main.py
 
 The API will be running on port 5000 by default. You can access the API at 127.0.0.1:5000/api/search.
 
-**or you can use the getimage.py functions to get img links by args. 🪄**
+**or you can use the imapi.py Modules to use the functions easily. 🪄**
 
 This project is open source and under the MIT license. 开源 👐
 
