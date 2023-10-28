@@ -26,4 +26,10 @@ save = imapi.download("cats","jpg")
 print(save)
 ```
 
-output will be cats.jpg and save it as cats.jpg 
+output will be cats.jpg and save it as cats.jpg
+
+
+### Bug fixed
+
+* No internet message, function, will return an "error occured" when error happened
+* Minor issue
