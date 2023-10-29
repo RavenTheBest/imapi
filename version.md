@@ -33,3 +33,26 @@ output will be cats.jpg and save it as cats.jpg
 
 * No internet message, function, will return an "error occured" when error happened
 * Minor issue
+
+## Version 1.0.2
+
+**Release Date: **October 29 2023.
+
+### New Function attributes
+
+* I fixed those following functions and make single and download function as attributes
+
+```python
+image = imapi("cats") #a list of cat images
+
+single_link = image.single() #get a single link from list by using random function
+
+single_link.download() #it will download the image file on user device
+```
+
+i make it clean by doing it, u can still use the old version of imapi by using imapi.py
+
+### Bug fixes
+
+* Error when doing web scraping
+
