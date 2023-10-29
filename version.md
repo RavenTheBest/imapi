@@ -36,7 +36,7 @@ output will be cats.jpg and save it as cats.jpg
 
 ## Version 1.0.2
 
-**Release Date: **October 29 2023.
+**Release Date:** October 29 2023.
 
 ### New Function attributes
 
