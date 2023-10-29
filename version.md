@@ -52,7 +52,7 @@ single_link.download() #it will download the image file on user device
 
 i make it clean by doing it, u can still use the old version of imapi by using imapi.py
 
-### Bug fixes
+### Bug fixed
 
 * Error when doing web scraping
 
