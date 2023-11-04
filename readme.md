@@ -46,6 +46,11 @@ python main.py
 
 The API will be running on port 5000 by default. You can access the API at 127.0.0.1:5000/api/search.
 
+or you can use this url:
+```
+https://imapi-1.xnexjaks.repl.co/api/search?q=<search>
+```
+
 **or you can use the imapi.py Modules to use the functions easily. 🪄**
 
 This project is open source and under the MIT license. 开源 👐
